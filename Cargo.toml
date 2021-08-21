@@ -1,6 +1,6 @@
 [package]
 name = "xrunits"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["xstater <a166224@163.com>"]
 keywords = ["unit"]
 repository = "https://github.com/xstater/xrunits"
