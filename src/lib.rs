@@ -48,6 +48,8 @@ pub mod data;
 pub mod frequency;
 /// the Mass Unit
 pub mod mass;
+/// the Angle Unit
+pub mod angle;
 
 /// Core Trait that represent a Unit
 pub trait Unit : Sized{
