@@ -1,6 +1,5 @@
 # XRUnits
 XRUnits is a unit library
-# **My english is NOT very good !!**
 ## Motivation
 We usually use some real-world unit.
 If we need to develop a program to deal with these units,
